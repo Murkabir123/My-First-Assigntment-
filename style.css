@@ -1,0 +1,231 @@
+
+
+
+body{
+background-color: #F1F1F3;
+padding-left: 130px;
+padding-right: 130px;
+display: flex;
+flex-direction: column;
+gap: 50px;
+}
+h1{
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+
+
+
+.hero_section{
+    background-color: #C6E4D6;
+    padding: 20px;
+    background-image: url('assets/hero.png');
+    background-repeat: no-repeat;
+    height: 400px;
+    background-position: right;
+
+}
+#hero{
+
+}
+
+
+.pillars_section{
+
+}
+#pillar{
+
+}
+#card{
+    display: flex;
+}
+
+
+#innovation{
+background-color: white;
+padding: 20px;
+}
+
+#card{
+    display: flex;
+    gap: 10px;
+}
+
+#innovation{
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+}
+#sustainability{
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+}
+
+#infrastructure{
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+}
+
+#empowerment{
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+}
+
+
+
+
+.vision_section{
+
+}
+#vision{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+.vision_card{
+    display: flex;
+    gap: 10px;
+}
+
+#digital_Transformation{
+background-color: #5490F5;
+padding: 20px;
+border-radius: 10px;
+}
+
+#green_energy{
+background-color: #09A15C;
+padding: 20px;
+border-radius: 10px;
+}
+
+#modern_infrastructure{
+background-color: #F7EBCF;
+padding: 20px;
+border-radius: 10px;
+}
+
+.quote{
+    background-color: white;
+    padding:14px;
+    border-radius: 10px;
+}
+
+
+
+
+.opinion_section{
+
+}
+#opinion{
+
+}
+
+
+.recent_section{
+
+}
+#recent{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+.satelite{
+    display: flex;
+    gap: 10px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 15px;
+}
+.satelite_img{
+    border-radius: 10px;
+}
+#second_satelite{
+    flex-direction: row-reverse;
+}
+
+
+.donate_section{
+
+}
+#donate{
+display: flex;
+flex-direction: column;
+width: 60%;
+align-items: center;
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+#donate_input{
+    background-color: white;
+    padding: 20px;
+    border-radius: 13px;
+    border: 0px;
+    text-align: center;
+    width: 100%;
+}
+.amount_card{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    width: 100%;
+}
+
+.amount{
+    width: 23%;
+    height: 60px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+
+.Subscribe_section{
+background-color: #C6E4D6;
+padding-top: 80px;
+padding-bottom: 80px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+#subscribe{
+
+}
+
+
+.input_box{
+    display: flex;
+    width: 70%;
+    border-radius: 15px;
+}
+
+.input_box > input {
+    border: 0px;
+    padding: 15px;
+    width: 80%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.input_box > button {
+    width: 20%;
+    background-color: #5490F5;
+    color: white;
+    text-align: center;
+    border: 0px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
